@@ -84,11 +84,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 .footerTop{
-     margin: 0 auto;
+         margin: 0 auto;
     padding: 32px;
     text-align: center;
     color: green;
-    border-bottom: 1px soild;
+    font-family: auto;
 
 }
 
