@@ -107,7 +107,14 @@ textarea {
     line-height: 2;
     text-decoration: none !important;
 }
-
+.Footercopyright{
+      text-align: center;
+    margin-top: 15px;
+}
+.Footercopyright img{
+      height: 35px;
+      border-radius: 50px;
+    }
 
 
 /* ==========================================================================
