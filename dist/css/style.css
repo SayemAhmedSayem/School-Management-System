@@ -88,7 +88,8 @@ textarea {
     padding: 32px;
     text-align: center;
     color: green;
-    
+    border-bottom: 1px soild;
+
 }
 
 
