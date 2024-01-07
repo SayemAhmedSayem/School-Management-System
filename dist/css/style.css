@@ -89,7 +89,11 @@ textarea {
     text-align: center;
     color: green;
     font-family: auto;
-
+}
+.footerBottom{
+      text-align: center;
+    margin: 0px auto;
+    padding: 28px 0px;
 }
 
 
